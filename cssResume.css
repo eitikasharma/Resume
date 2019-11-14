@@ -29,9 +29,18 @@ html
 
 table
 {
+    
     text-align: center;
 
 }
+
+.table2,.td2
+{
+    border:2px solid black;
+    border-collapse:collapse;
+    background-color:#f5f5f0;
+}
+
 img
 {
 
